@@ -20,6 +20,8 @@
 
 ## Consider the full app design and development process from initial planning to finalization. Where did you have to innovate to overcome a challenge?
 
-### I had to innovate by 
+### After considering the full app design and development process of the mobile app, I realized that I had to innovate while addressing the choice of grid for outputting event information. For project two, I initially implemented div cells which made the code overly complex to implement, especially when it came to creating or deleting an event. For project three, instead of div cells, I utilized the RecyclerView, making it easier to apply CRUD operations but also to enhance UI design. 
 
 ## In what specific component of your mobile app were you particularly successful in demonstrating your knowledge, skills, and experience?
+
+### A component of my mobile app that I was particularly successful in demonstrating my knowledge, skills, and experience was by joining each CRUD operation to a UI button – that was when I felt confident about basic backend and database logic and how they can be linked up to a user interface.
